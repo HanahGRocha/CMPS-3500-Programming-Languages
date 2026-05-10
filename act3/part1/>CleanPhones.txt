@@ -1,0 +1,48 @@
+Last           First          Clean             String   Usable         Formatted            
+Name           Name           Phone Number      Length   Phone Number   Phone Number         
+************   ************   ************      *******  *************  *******************  
+A.J.           Levin          77545397          8        6617754539     (661) 775 - 4539     
+A.J.           Liebling       76645230301       11       Dropped                             
+A.J.           Sebastian      434003413         9        9234003413     (923) 400 - 3413     
+A.C.           Green          605744320         9        9205744320     (920) 574 - 4320     
+A.J.           Mogis          2456993           7        6612456993     (661) 245 - 6993     
+A.J.           Styles         2146405205        10       Dropped                             
+A.W.           Tozer          8148529241        10       Dropped                             
+Aamir          Khan           7238975012678     13       Dropped                             
+Aaron          Barrett        306348295         9        9206348295     (920) 634 - 8295     
+Aaron          Brown          884608367         9        9284608367     (928) 460 - 8367     
+Aaron          Carter         6835241335        10       Dropped                             
+Aaron          Comess         8567227244        10       Dropped                             
+Aaron          Copeland       270956686478      12       Dropped                             
+Aaron          Eckhart        7990485591378     13       Dropped                             
+Aaron          Feinberg       74409938139       11       Dropped                             
+Aaron          Guerra         78497870114       11       Dropped                             
+Aaron          Harnik         74625870114       11       Dropped                             
+Aaron          Himelstein     2049539           7        6612049539     (661) 204 - 9539     
+Aaron          Jay            6647234680        10       Dropped                             
+Aaron          Kamin          6334006406        10       Dropped                             
+Aaron          Klug           943861609778      12       Dropped                             
+Aaron          Lewis          7360768417778     13       Dropped                             
+Aaron          Lopez          73456995718       11       Dropped                             
+Aaron          North          875919803         9        9275919803     (927) 591 - 9803     
+Aaron          Peirsol        9945763391        10       Dropped                             
+Aaron          Pryor          8069209           7        6618069209     (661) 806 - 9209     
+Aaron          Schock         6922382380        10       Dropped                             
+Aaron          Siskind        3013316316        10       Dropped                             
+Aaron          Sorkin         433931170178      12       Dropped                             
+Aaron          Spelling       7709616873578     13       Dropped                             
+Aaron          T.             76953475584       11       Dropped                             
+Aaron          Wills          724608844         9        9224608844     (922) 460 - 8844     
+Aayla          Secura         860578929         9        9260578929     (926) 057 - 8929     
+Abba           Arika          10835787          8        6611083578     (661) 108 - 3578     
+Abba           Eban           6512222939        10       Dropped                             
+Abba           Kovner         367564907178      12       Dropped                             
+Abba           Mari           7960728484678     13       Dropped                             
+Abbas          Kiarostami     964342460         9        9264342460     (926) 434 - 2460     
+Abbey          Rader          389658073         9        9289658073     (928) 965 - 8073     
+Abbie          Hoffman        5842106           7        6615842106     (661) 584 - 2106     
+Abby           Travis         4909242271        10       Dropped                             
+Abe            Attell         9922240699        10       Dropped                             
+Abe            Beame          515230425078      12       Dropped                             
+Abe            Fortas         7350373517078     13       Dropped                             
+Abe            Foxman         76844295227       11       Dropped                             

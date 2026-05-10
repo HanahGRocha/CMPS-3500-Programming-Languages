@@ -1,0 +1,90 @@
+V "GNAT Lib v12"
+M P W=b
+P SS ZX
+
+RN
+RV NO_IO
+RV NO_SECONDARY_STACK
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+
+U regex%b		regex.adb		3fdf21eb NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.regpat%s		g-regpat.ads		g-regpat.ali
+Z system.concat_3%s	s-conca3.adb		s-conca3.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+D ada.ads		20220819080952 76789da1 ada%s
+D a-except.ads		20220819080952 2a7d8d70 ada.exceptions%s
+D a-ioexce.ads		20220819080952 40018c65 ada.io_exceptions%s
+D a-stream.ads		20220819080952 119b8fb3 ada.streams%s
+D a-string.ads		20220819080952 90ac6797 ada.strings%s
+D a-sttebu.ads		20220819080952 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20220819080952 33c54060 ada.strings.utf_encoding%s
+D a-tags.ads		20220819080952 9eaa38c6 ada.tags%s
+D a-textio.ads		20220819080952 deada98a ada.text_io%s
+D a-unccon.ads		20220819080952 0e9b276f ada.unchecked_conversion%s
+D gnat.ads		20220819080952 b5988c27 gnat%s
+D g-regpat.ads		20220819080952 b85d88ef gnat.regpat%s
+D interfac.ads		20220819080952 edec285f interfaces%s
+D i-cstrea.ads		20220819080952 e53d8b8e interfaces.c_streams%s
+D regex.adb		20251018014739 592f008e regex%b
+D system.ads		20220819080952 a2da961d system%s
+D s-conca3.ads		20220819080952 9078e860 system.concat_3%s
+D s-crtl.ads		20220819080952 8a0692f8 system.crtl%s
+D s-exctab.ads		20220819080952 91bef6ef system.exception_table%s
+D s-ficobl.ads		20220819080952 dc5161d4 system.file_control_block%s
+D s-parame.ads		20220819080952 d494a4a6 system.parameters%s
+D s-putima.ads		20220819080952 4e095881 system.put_images%s
+D s-regpat.ads		20220819080952 d980101d system.regpat%s
+D s-secsta.ads		20220819080952 62cd9202 system.secondary_stack%s
+D s-soflin.ads		20220819080952 df77073e system.soft_links%s
+D s-stache.ads		20220819080952 0b81c1fe system.stack_checking%s
+D s-stalib.ads		20220819080952 1c9580f6 system.standard_library%s
+D s-stoele.ads		20220819080952 6d8e1ff4 system.storage_elements%s
+D s-stoele.adb		20220819080952 8f5a9db6 system.storage_elements%b
+D s-traent.ads		20220819080952 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		20220819080952 fa2a7f59 system.unsigned_types%s
+D s-wchcon.ads		20220819080952 d9032363 system.wch_con%s
+D unchconv.ads		20220819080952 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [regex standard 11 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 15|9r6 9r41
+X 9 a-textio.ads
+58K13*Text_IO 727e16 15|9w10 9r45
+507U14*Put_Line 15|43s7 50s4
+X 11 gnat.ads
+37K9*GNAT 60e9 15|9r24 13r24
+X 12 g-regpat.ads
+72K14*Regpat=72:36 15|9w29 13r29
+X 15 regex.adb
+11U11*Regex 11b11 51l5 51t10
+13K12 Pat=13:29 15r54 19r15 21r7 22r20 22r39 39r26 48r23
+15U14 Search_For_Pattern 15b14 15>33 16>33 17<33 17<40 18<33 27l8 27t26 39s7
+. 48s4
+15r33 Compiled_Expression{23|383R9} 21r17
+16a33 Search_In{string} 21r38
+17i33 First{positive} 24m10
+17i40 Last{positive} 25m10
+18b33 Found{boolean} 22m7 23r10
+19a7 Result{23|342A9} 21m49 22r28 24r19 25r18
+29a4 Word_Pattern{string} 39r38
+31a4 Str{string} 32r31 40r26 40r47 43r22 48r49 49m4 49r11 49r15 49r51 49r65
+. 50r13
+32i4 Current_First{positive} 40r30 44m7
+33i4 First{positive} 41m26 43r26 48m54 49r28
+33i11 Last{positive} 41m33 43r35 44r24 48m61 49r55
+34b4 Found{boolean} 41m39 42r18 48m67
+X 23 s-regpat.ads
+338i7*First{natural} 15|24r29
+339i7*Last{natural} 15|25r28
+342A9*Match_Array(337R9)<integer> 15|19r19
+371r4*No_Match{337R9} 15|22r43
+383R9*Pattern_Matcher 15|15r58 23|643e14
+389V13*Compile{383R9} 15|39s30 48s27
+573U14*Match 15|21s11
+
